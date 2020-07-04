@@ -7,3 +7,5 @@ i haven't learn many programming language, but i know python and c++ a bit.
 Plz teach me 
 
 Thankss
+
+#Updated on Jul 2020
